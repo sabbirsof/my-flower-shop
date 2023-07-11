@@ -128,3 +128,11 @@
     padding-top: 90px;
     border-radius: 10px;
 }
+.footer{
+    
+    height: 28vh;
+    margin: auto;
+    background-color: black;
+    align-items: center;
+    padding-top: 100px;
+}
