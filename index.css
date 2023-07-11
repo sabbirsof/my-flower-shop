@@ -35,4 +35,96 @@
 .banner-text{
     margin-left: 97px;
 }
-
+.featured-text{
+    text-align: center;
+    padding-top: 30px;
+}
+.flower1{
+    width:290px ;
+    height: 360px;
+    background-color:rgb(226, 206, 226) ;
+    border-radius: 150px 150px 3px 3px;
+}
+.flower{
+    width: 210px;
+    height: 320px;
+    margin: 10px;
+    padding: 10px;
+    padding-top: 30px;
+    padding-left: 30px;
+    padding-right: 20px;
+}
+.featured-container{
+    height: 100vh;
+}
+.flower-container{
+    display: flex;
+    justify-content:center;
+    align-items:center;
+    gap: 20px;
+    text-align: center;
+    padding-top: 70px;
+    
+}
+.fea-titel{
+    font-weight: bold;
+   padding-bottom: 8px;
+}
+.hot-deals{
+   
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+     height: 77vh;
+    background-color: rgb(255, 233, 244);
+}
+.rose-photo{
+    margin: 10px
+    padding-right: 55px;
+}
+.rose-img{
+    width: 246px;
+    height: 317px;
+    margin-right:151px;
+}
+.text{
+    margin-left: 148px;
+    align-items:center;
+}
+.insta-pic{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    width: 69%;
+    height:69vh ;
+    margin: auto;
+    gap: 10px;
+    margin: 11px 11px 1 ;
+}
+.email{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+   
+}
+.input{
+    padding: 10px;
+    width: 400px;
+    margin-right: 10px;
+}
+.btnn{
+    padding: 13px;
+    width: 100px;
+}
+.subscribe{
+    width: 60%;
+    height: 35vh;
+    margin: auto;
+    background-image: url(image/Rectangle\ 9.png);
+    align-items: center;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding-top: 90px;
+    border-radius: 10px;
+}
